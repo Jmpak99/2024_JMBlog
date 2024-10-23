@@ -28,7 +28,7 @@ Django를 이용한 블로그 사이트
 
 ## 2. 프로젝트 소개
 
-Python을 이용한 부동산 데이터분석 프로젝트 입니다 :)
+Django를 이용한 블로그 만들기 프로젝트입니다 !
 
 ## 🎯 Commit Convention
 
